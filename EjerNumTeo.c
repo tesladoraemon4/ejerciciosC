@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
 		
 
 
-	printf("hola como estas\n");
+	printf("hola como estas 2 \n");
 	for (;;x++)
 	{
 		printf("numero = %d ",x);
