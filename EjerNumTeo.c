@@ -10,6 +10,9 @@ int main(int argc, char const *argv[])
 {
 	int c=0, x=0,pendejo=0;
 		
+
+
+	printf("hola como estas\n");
 	for (;;x++)
 	{
 		printf("numero = %d ",x);
